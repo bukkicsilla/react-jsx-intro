@@ -1,0 +1,19 @@
+body {
+  background-color: cornflowerblue;
+  font-size: 1.2rem;
+}
+p {
+  margin: 15px;
+}
+.app {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+}
+.tweet {
+  color: snow;
+  border-right: 3px solid gold;
+  margin-right: 15px;
+}
